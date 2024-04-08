@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is .Ardhaoui Amine and I'm a Security Analyst & Developer  from Tunisia</h2>
+<h2 align="left">Hi 👋! My name is Ardhaoui Amine and I'm a Security Analyst & Developer  from Tunisia</h2>
 - 🔭 I’m currently working on **--**
 
 - 🌱 I’m currently learning **Machine learning**
