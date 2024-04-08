@@ -1,4 +1,17 @@
 <h2 align="left">Hi 👋! My name is .Ardhaoui Amine and I'm a Security Analyst & Developer  from Tunisia</h2>
+- 🔭 I’m currently working on **--**
+
+- 🌱 I’m currently learning **Machine learning**
+
+- 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/ardhaoui-amine-83b242233/)
+
+- 💬 Ask me about **Risk Management and Vulnerability Assessment**
+
+- 📫 How to reach me **amine.ardhaoui2@gmail.com**
+
+- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/ardhaoui-amine-83b242233/)
+
+- ⚡ Fun fact **I think I m funny**
 
 ###
 
