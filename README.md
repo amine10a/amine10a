@@ -12,6 +12,7 @@
 - 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/ardhaoui-amine-83b242233/)
 
 - ⚡ Fun fact **I think I m funny**
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=Amine10a.Amine10a) 
 
 ###
 
