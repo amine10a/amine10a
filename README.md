@@ -12,8 +12,7 @@
 - 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/ardhaoui-amine-83b242233/)
 
 - ⚡ Fun fact **I think I m funny**
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=amine10a..) 
-
+![Profile views](https://komarev.com/ghpvc/?username=amine10a&color=red)
 ###
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajE0bDZwdWF1bWJydDdnNjJrbmpldDVnN2Z0ZzYycXdzYTRrcWoweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vl4OUrJVseW94TMvov/giphy.gif"  />
