@@ -64,4 +64,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amine10a&show_icons=true&locale=en" alt="amine10a" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amine10a&" alt="amine10a" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amine10a" alt="amine10a" /></p>
